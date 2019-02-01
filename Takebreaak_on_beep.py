@@ -7,3 +7,5 @@ while (Take_break<Total_hrs):
                    time.sleep(3600)
                    winsound.Beep(3475,1000)
                    Take_break+=1
+ 
+#ctrl-c for exit
